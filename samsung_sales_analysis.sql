@@ -1,7 +1,6 @@
 CREATE DATABASE IF NOT EXISTS samsung_db;
 USE samsung_db;
 
-
 -- 01 : Sélection de clients basée sur des critères multiples
 
 SELECT
